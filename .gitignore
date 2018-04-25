@@ -1,0 +1,5 @@
+*.pyc
+
+networks/VGG19_weights \(copia\)\.h5
+
+networks/VGG19_weights\.h5
